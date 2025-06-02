@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use the Supplementary Material, please cite it as below."
 authors:
-- family-names: "Uhde"
-  given-names: "Alarith"
+  - family-names: "Uhde"
+    given-names: "Alarith"
     orcid: "https://orcid.org/0000-0003-3877-5453"
     title: "Supplementary Material to 'How Problematic are Suspenseful Interactions?'"
     version: 0.0.0.9000
