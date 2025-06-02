@@ -14,3 +14,5 @@ This folder contains the following material used in the study and analysis:
   The folder also contains the graphic files used for the Kunin scale
 - "Video": This folder contains the videos of the four gestures used in the
   study. In the actual setup, these were embedded through a YouTube link.
+
+
