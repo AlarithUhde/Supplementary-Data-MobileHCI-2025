@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use the Supplementary Material, please cite it as below."
+message: "If you use the code or data, please cite it as below."
 authors:
-  - family-names: "Uhde"
-    given-names: "Alarith"
-    orcid: "https://orcid.org/0000-0003-3877-5453"
-title: "How Problematic are Suspenseful Interactions? Supplementary Material"
-version: 0.0.0.9000
+  - family-names: Uhde
+    given-names: Alarith
+    orcid: https://orcid.org/0000-0003-3877-5453
+title: "Supplementary Material for the MobileHCI 2025 Paper"
+version: 1.0.2
 date-released: 2025-06-02
